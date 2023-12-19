@@ -253,13 +253,13 @@ _More testing required._
 
 ***
 
-**[Presonus Studio 24C](https://www.presonus.com/products/Studio-24c)** USB digital audio interface
+**[Presonus Studio 24C/68c](https://www.presonus.com/products/Studio-24c)** USB digital audio interface
 
 **Windows**: ✅ Works great with provided ASIO driver. (measured interface latency with Oblique Audio RTL Utility, 48000 Hz, 64 samples and cable from output to input on Mac OS X Big Sur: `4.1 ms`. Note this is **only the interface latency** not the latency in Jamulus)
 
 **macOS**: ✅ Works great.
 
-**Linux**: ❓ Not yet tested.
+**Linux**: ✅ Works great.
 
 ***
 
